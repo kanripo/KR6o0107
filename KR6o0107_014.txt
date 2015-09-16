@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:00.028926
+#+DATE: 2015-08-30 21:01:01.907367
 #+TITLE: 起信論疏筆削記
 #+PROPERTY: CBETA_ID T44n1848
 #+PROPERTY: ID KR6o0107
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 44, No. 1848
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0107_T_014-0370a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 14
 ¶
 ¶
-
- 起信論疏筆削記卷第十四¶
+起信論疏筆削記卷第十四¶
 ¶
-長水沙門子璿錄¶
+長水沙門子[王*(虍-七+(一/八/八/目))]錄¶
 
 問有三段。一指前按定。論悉有真如等者。¶
 凡是有情皆具本覺無二圓滿。以皆具故。熏¶
