@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:00.217644
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:36
 #+TITLE: 起信論疏筆削記
 #+PROPERTY: CBETA_ID T44n1848
 #+PROPERTY: ID KR6o0107
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 44, No. 1848
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0107_T_020-0403c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 20
 ¶
 ¶
-
- 起信論疏筆削記卷第二十¶
+起信論疏筆削記卷第二十¶
 ¶
 長水沙門子璿錄¶
 
@@ -371,7 +370,7 @@
 之有。謂我情忘。何情之忘。及乎讚喜謗瞋。惑¶
 之盛矣。殊不知存我入覺。覺思遠焉。而罔信¶
 安養為息肩脫屣之地者。吾為之傷之。弗能¶
-已也。佛記等者。楞伽經說。龍樹比丘住初歡¶
+已也。佛記等者。楞伽經說。龍樹比丘住初勸¶
 喜地。能破有無見。往生安樂國。後二位者。即
 <pb:KR6o0107_T_020-0407c>¶
 十信滿足及三賢位人。以觀真如法身勤修¶

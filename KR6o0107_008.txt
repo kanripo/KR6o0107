@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:59.845611
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:36
 #+TITLE: 起信論疏筆削記
 #+PROPERTY: CBETA_ID T44n1848
 #+PROPERTY: ID KR6o0107
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 44, No. 1848
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0107_T_008-0336c> 
 #+PROPERTY: JUAN 8
 ¶
-
- 起信論疏筆削記卷第八¶
+起信論疏筆削記卷第八¶
 ¶
 長水沙門子璿錄¶
 
@@ -50,8 +49,7 @@
 也。楞伽下引證。經云。大慧如來藏者。輪轉¶
 苦樂因也。亂意慧愚癡凡夫所不能覺。勝鬘¶
 云。世尊依如來藏。故有生滅。依如來藏。故證¶
-涅槃。世尊若無如來藏者。不能厭生死苦求¶
-涅槃樂。¶
+涅槃。世尊若無如來藏者。不能厭生死苦求涅槃樂。¶
 
 此顯下二揀濫如說。依水有波。意顯所依之¶
 水全起。成能依之波不同。依母有子非全母¶

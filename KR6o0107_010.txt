@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:59.905907
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:36
 #+TITLE: 起信論疏筆削記
 #+PROPERTY: CBETA_ID T44n1848
 #+PROPERTY: ID KR6o0107
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 44, No. 1848
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0107_T_010-0348a> ¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 起信論疏筆削記卷第十¶
+起信論疏筆削記卷第十¶
 ¶
 長水沙門子璿錄¶
 
@@ -145,8 +144,7 @@
 東疏義。圭山參而用之。石壁失照作應化解。¶
 深為不可。以下不思議業相方是應化身故。¶
 若如上解。三身義足不爾。文中便成缺剩。剩¶
-一化身。缺一報也。有智請詳。然此下始本¶
-同也。以始覺是本之用。由有染故。本覺用起¶
+一化身。缺一報也。有智請詳。然此下始本同也。以始覺是本之用。由有染故。本覺用起¶
 以為對治。今染緣既息。用還歸體故。轉其名¶
 為圓淨智也。斷德者。除淳淨智外。餘文悉是¶
 斷德。識與心相是所斷法。法身是彼斷所顯¶

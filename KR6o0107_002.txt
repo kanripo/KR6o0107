@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:59.660192
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:36
 #+TITLE: 起信論疏筆削記
 #+PROPERTY: CBETA_ID T44n1848
 #+PROPERTY: ID KR6o0107
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 44, No. 1848
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0107_T_002-0303a> ¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 起信論疏筆削記卷第二¶
+起信論疏筆削記卷第二¶
 ¶
 長水沙門子璿錄¶
 
@@ -246,7 +245,7 @@
 如構大廈先要有解(起造之解合二智也)。次列所造(廳堂庠序等合一心¶
 二門三大等)。三明其相(間架向背等合分三大等)。四能造器(斤斧墨尺等合妙音善字¶
 等)。五有所憑準(依絰依匠合三量等)。六旁藉陰功(禁宰先靈合三寶加¶
-祐)。七上安所尊(父母等合報佛恩)。八下廕來裔(子孫男女合為眾生)。九¶
+祐)。七上安所尊(父母等合報佛恩)。八下癊來裔(子孫男女合為眾生)。九¶
 念情深厚(有恩有愛合大悲愍物)。十各得所安(隨彼穩便合信解入證)。如
 <pb:KR6o0107_T_002-0305c>¶
 上配合顯然不同。由是十文無相濫矣。又此¶

@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:59.689943
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:36
 #+TITLE: 起信論疏筆削記
 #+PROPERTY: CBETA_ID T44n1848
 #+PROPERTY: ID KR6o0107
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 44, No. 1848
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0107_T_003-0308b> ¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 起信論疏筆削記卷第三¶
+起信論疏筆削記卷第三¶
 ¶
 長水沙門子璿錄¶
 
@@ -490,7 +489,7 @@
 故下文云。一切諸佛本所乘故。一切菩薩皆¶
 乘此法到如來地故等。由是亦名佛乘一乘¶
 最上乘。今就通稱。但言大也。言雖不異其義¶
-不同。由是此文迥異常說常塗。又說須待能¶
+不同。由是此文迴異常說常塗。又說須待能¶
 所相契方得名乘。今論直目眾生心。以為大¶
 乘法。豈得須具能所耶。故涅槃云。佛性者。名¶
 為一乘。大乘下舉所信。以明能信。謂由有此¶

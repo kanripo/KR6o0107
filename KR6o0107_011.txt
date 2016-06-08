@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:59.932822
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:36
 #+TITLE: 起信論疏筆削記
 #+PROPERTY: CBETA_ID T44n1848
 #+PROPERTY: ID KR6o0107
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 44, No. 1848
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0107_T_011-0353a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 11
 ¶
 ¶
-
- 起信論疏筆削記卷第十一¶
+起信論疏筆削記卷第十一¶
 ¶
 長水沙門子璿錄¶
 
@@ -213,8 +212,7 @@
 伽下引證。義見前文。上來下配三障。自此已¶
 上直至根本無明。盡名為惑。若準佛名經云。¶
 獨頭無明為煩惱種。則別開無明以為煩惱¶
-所依。其實無明是癡。乃根本六惑之數。若¶
-也合論皆名煩惱。開合雖異俱是惑門。自下¶
+所依。其實無明是癡。乃根本六惑之數。若也合論皆名煩惱。開合雖異俱是惑門。自下¶
 等即業苦。斯則三障即三道也。¶
 
 五中疏執相等者。謂於我執貪瞋愛見。發動¶
